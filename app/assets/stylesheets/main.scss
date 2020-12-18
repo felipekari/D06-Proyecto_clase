@@ -2176,7 +2176,7 @@ input, select, textarea {
 
 	#header {
 		position: relative;
-		background-image: url(header.jpeg);
+		background-image: asset-data-url("header.jpeg");
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
